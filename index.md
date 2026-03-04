@@ -38,3 +38,6 @@ Je conçois l’économie comme une discipline où les modèles doivent être co
 * **Téléphone :** +212 714430432
 * **Localisation :** Rabat, Maroc (INSEA)
 * [LinkedIn](Ton_Lien_Ici) | [GitHub](https://github.com/guergou-debug)
+
+* ### Travaux en comptabilité nationale
+* [Télécharger mon rapport sur l'approche genre (PDF)](./projets/rapport_comptabilite_nationale.pdf)
