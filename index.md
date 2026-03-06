@@ -1,3 +1,5 @@
+![Mon Portrait](./photo.jpg){: width="150px" style="border-radius: 50%;"}
+
 # Bienvenue sur mon portfolio.
 # GUERGOU GAGARA Abdoul-Samah
 **Élève Ingénieur en Économie Appliquée, Statistique & Big Data (INSEA)** *Candidat à la recherche en Économie du Développement*
