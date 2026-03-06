@@ -1,3 +1,6 @@
+[Accueil](./index.md) | [Formation](./formation.md) | [Projets](./projets.md) | [Expériences](./experiences.md)
+---
+
 # 💼 Expériences Professionnelles
 
 ### Data Analyst
