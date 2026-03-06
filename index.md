@@ -1,3 +1,5 @@
+[Accueil](./index.md) | [Formation](./formation.md) | [Projets](./projets.md) | [Expériences](./experiences.md)
+---
 ![Mon Portrait](./photo.jpg){: width="150px" style="border-radius: 50%;"}
 
 # Bienvenue sur mon portfolio.
